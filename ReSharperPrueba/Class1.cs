@@ -1,6 +1,6 @@
 ﻿namespace ReSharperPrueba
 {
-    public class Slass1
+    public class class1
     {
 
     }
