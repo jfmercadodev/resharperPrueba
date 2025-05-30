@@ -1,0 +1,6 @@
+root = true
+
+[*.cs]
+indent_style = space
+indent_size = 4
+dotnet_naming_rule.private_fields_should_be_camel_case.severity = error
