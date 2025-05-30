@@ -1,7 +1,8 @@
 ﻿namespace ReSharperPrueba
 {
-    public class class1
+    /*
+    public class Class1
     {
-
     }
+*/
 }
