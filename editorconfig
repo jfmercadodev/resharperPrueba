@@ -4,3 +4,8 @@ root = true
 indent_style = space
 indent_size = 4
 dotnet_naming_rule.private_fields_should_be_camel_case.severity = error
+
+# StyleCop settings
+dotnet_diagnostic.SA1300.severity = error   # Naming rules
+dotnet_diagnostic.SA1600.severity = warning # Documentation
+dotnet_diagnostic.SA1516.severity = error   # Blank lines between elements
